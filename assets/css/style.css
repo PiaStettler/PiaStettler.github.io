@@ -258,9 +258,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: var(--accent1);}
 .single-about-img{
     position: absolute;
     box-shadow: 0 5px 20px var(--shadow);
-    width: 100%;  /* Damit das Bild die gesamte Breite des Containers nutzt */
-    height: auto; /* Die Höhe wird automatisch angepasst, um die Proportionen beizubehalten */
-    overflow: hidden; /* Verhindert, dass das Bild aus dem Container herausragt */}
+    width: 90%; 
+    height: auto; 
+    overflow: hidden; }
 .single-about-img:before {
     position:  absolute;
     content: " ";
